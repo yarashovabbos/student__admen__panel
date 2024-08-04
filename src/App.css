@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+.add__btn{
+    background-color: #281aa7;
+    color: rgb(255, 255, 255);
+    border: none;
+  }
+.add__btn:hover{
+    background-color: #4a4a5a;
+    color: rgb(255, 255, 255);
+    border: none;
+  }
